@@ -1,0 +1,1444 @@
+[
+    {
+      "Country": "Indonesia",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 142,
+      "Days partially closed": 524,
+      "Total": 666
+    },
+    {
+      "Country": "Bolivia (Plurinational State of)",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 298,
+      "Days partially closed": 365,
+      "Total": 663
+    },
+    {
+      "Country": "Honduras",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 498,
+      "Days partially closed": 157,
+      "Total": 655
+    },
+    {
+      "Country": "El Salvador",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 320,
+      "Days partially closed": 329,
+      "Total": 649
+    },
+    {
+      "Country": "India",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 173,
+      "Days partially closed": 476,
+      "Total": 649
+    },
+    {
+      "Country": "Panama",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 386,
+      "Days partially closed": 256,
+      "Total": 642
+    },
+    {
+      "Country": "Ecuador",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 282,
+      "Days partially closed": 357,
+      "Total": 639
+    },
+    {
+      "Country": "Uganda",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 460,
+      "Days partially closed": 162,
+      "Total": 622
+    },
+    {
+      "Country": "Nepal",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 278,
+      "Days partially closed": 330,
+      "Total": 608
+    },
+    {
+      "Country": "Bangladesh",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 442,
+      "Days partially closed": 160,
+      "Total": 602
+    },
+    {
+      "Country": "Guatemala",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 229,
+      "Days partially closed": 373,
+      "Total": 602
+    },
+    {
+      "Country": "Guyana",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 188,
+      "Days partially closed": 397,
+      "Total": 585
+    },
+    {
+      "Country": "Iraq",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 356,
+      "Days partially closed": 222,
+      "Total": 578
+    },
+    {
+      "Country": "Cambodia",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 283,
+      "Days partially closed": 293,
+      "Total": 576
+    },
+    {
+      "Country": "Argentina",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 157,
+      "Days partially closed": 418,
+      "Total": 575
+    },
+    {
+      "Country": "Costa Rica",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 303,
+      "Days partially closed": 269,
+      "Total": 572
+    },
+    {
+      "Country": "Mexico",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 374,
+      "Days partially closed": 194,
+      "Total": 568
+    },
+    {
+      "Country": "Iran (Islamic Republic of)",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 157,
+      "Days partially closed": 409,
+      "Total": 566
+    },
+    {
+      "Country": "Philippines",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 556,
+      "Days partially closed": 6,
+      "Total": 562
+    },
+    {
+      "Country": "Brazil",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 267,
+      "Days partially closed": 288,
+      "Total": 555
+    },
+    {
+      "Country": "Republic of Korea",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 79,
+      "Days partially closed": 474,
+      "Total": 553
+    },
+    {
+      "Country": "Kuwait",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 431,
+      "Days partially closed": 119,
+      "Total": 550
+    },
+    {
+      "Country": "Myanmar",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 414,
+      "Days partially closed": 134,
+      "Total": 548
+    },
+    {
+      "Country": "Colombia",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 161,
+      "Days partially closed": 379,
+      "Total": 540
+    },
+    {
+      "Country": "Peru",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 240,
+      "Days partially closed": 300,
+      "Total": 540
+    },
+    {
+      "Country": "United States of America",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 0,
+      "Days partially closed": 539,
+      "Total": 539
+    },
+    {
+      "Country": "Antigua and Barbuda",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 199,
+      "Days partially closed": 338,
+      "Total": 537
+    },
+    {
+      "Country": "Bahrain",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 238,
+      "Days partially closed": 297,
+      "Total": 535
+    },
+    {
+      "Country": "Grenada",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 140,
+      "Days partially closed": 394,
+      "Total": 534
+    },
+    {
+      "Country": "Cuba",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 134,
+      "Days partially closed": 395,
+      "Total": 529
+    },
+    {
+      "Country": "Belize",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 307,
+      "Days partially closed": 215,
+      "Total": 522
+    },
+    {
+      "Country": "Sri Lanka",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 342,
+      "Days partially closed": 179,
+      "Total": 521
+    },
+    {
+      "Country": "Venezuela",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 424,
+      "Days partially closed": 92,
+      "Total": 516
+    },
+    {
+      "Country": "Paraguay",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 224,
+      "Days partially closed": 291,
+      "Total": 515
+    },
+    {
+      "Country": "Bahamas",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 258,
+      "Days partially closed": 256,
+      "Total": 514
+    },
+    {
+      "Country": "Trinidad and Tobago",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 179,
+      "Days partially closed": 329,
+      "Total": 508
+    },
+    {
+      "Country": "Saint Vincent and the Grenadines",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 187,
+      "Days partially closed": 314,
+      "Total": 501
+    },
+    {
+      "Country": "Jamaica",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 185,
+      "Days partially closed": 312,
+      "Total": 497
+    },
+    {
+      "Country": "Thailand",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 115,
+      "Days partially closed": 372,
+      "Total": 487
+    },
+    {
+      "Country": "Chile",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 95,
+      "Days partially closed": 391,
+      "Total": 486
+    },
+    {
+      "Country": "Malaysia",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 291,
+      "Days partially closed": 190,
+      "Total": 481
+    },
+    {
+      "Country": "Saudi Arabia",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 349,
+      "Days partially closed": 130,
+      "Total": 479
+    },
+    {
+      "Country": "Lao PDR",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 104,
+      "Days partially closed": 364,
+      "Total": 468
+    },
+    {
+      "Country": "Bhutan",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 139,
+      "Days partially closed": 328,
+      "Total": 467
+    },
+    {
+      "Country": "Oman",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 56,
+      "Days partially closed": 408,
+      "Total": 464
+    },
+    {
+      "Country": "United Arab Emirates",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 125,
+      "Days partially closed": 338,
+      "Total": 463
+    },
+    {
+      "Country": "Libya",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 120,
+      "Days partially closed": 338,
+      "Total": 458
+    },
+    {
+      "Country": "Suriname",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 254,
+      "Days partially closed": 202,
+      "Total": 456
+    },
+    {
+      "Country": "Afghanistan",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 243,
+      "Days partially closed": 212,
+      "Total": 455
+    },
+    {
+      "Country": "Saint Lucia",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 274,
+      "Days partially closed": 180,
+      "Total": 454
+    },
+    {
+      "Country": "South Africa",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 107,
+      "Days partially closed": 335,
+      "Total": 442
+    },
+    {
+      "Country": "Ethiopia",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 149,
+      "Days partially closed": 284,
+      "Total": 433
+    },
+    {
+      "Country": "Barbados",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 263,
+      "Days partially closed": 169,
+      "Total": 432
+    },
+    {
+      "Country": "Pakistan",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 261,
+      "Days partially closed": 167,
+      "Total": 428
+    },
+    {
+      "Country": "Qatar",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 175,
+      "Days partially closed": 246,
+      "Total": 421
+    },
+    {
+      "Country": "Palestine",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 116,
+      "Days partially closed": 301,
+      "Total": 417
+    },
+    {
+      "Country": "Mongolia",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 169,
+      "Days partially closed": 240,
+      "Total": 409
+    },
+    {
+      "Country": "Eswatini",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 237,
+      "Days partially closed": 159,
+      "Total": 396
+    },
+    {
+      "Country": "Kazakhstan",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 65,
+      "Days partially closed": 328,
+      "Total": 393
+    },
+    {
+      "Country": "Montenegro",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 132,
+      "Days partially closed": 256,
+      "Total": 388
+    },
+    {
+      "Country": "Dominican Republic",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 230,
+      "Days partially closed": 157,
+      "Total": 387
+    },
+    {
+      "Country": "British Virgin Islands",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 79,
+      "Days partially closed": 302,
+      "Total": 381
+    },
+    {
+      "Country": "Jordan",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 311,
+      "Days partially closed": 69,
+      "Total": 380
+    },
+    {
+      "Country": "South Sudan",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 231,
+      "Days partially closed": 147,
+      "Total": 378
+    },
+    {
+      "Country": "North Macedonia",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 142,
+      "Days partially closed": 235,
+      "Total": 377
+    },
+    {
+      "Country": "Mozambique",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 218,
+      "Days partially closed": 151,
+      "Total": 369
+    },
+    {
+      "Country": "Canada",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 92,
+      "Days partially closed": 270,
+      "Total": 362
+    },
+    {
+      "Country": "Rwanda",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 221,
+      "Days partially closed": 139,
+      "Total": 360
+    },
+    {
+      "Country": "Viet Nam",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 48,
+      "Days partially closed": 305,
+      "Total": 353
+    },
+    {
+      "Country": "Eritrea",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 96,
+      "Days partially closed": 252,
+      "Total": 348
+    },
+    {
+      "Country": "Lebanon",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 240,
+      "Days partially closed": 106,
+      "Total": 346
+    },
+    {
+      "Country": "Turkey",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 196,
+      "Days partially closed": 149,
+      "Total": 345
+    },
+    {
+      "Country": "Serbia",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 193,
+      "Days partially closed": 151,
+      "Total": 344
+    },
+    {
+      "Country": "Bosnia and Herzegovina",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 130,
+      "Days partially closed": 213,
+      "Total": 343
+    },
+    {
+      "Country": "Azerbaijan",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 205,
+      "Days partially closed": 137,
+      "Total": 342
+    },
+    {
+      "Country": "Latvia",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 112,
+      "Days partially closed": 229,
+      "Total": 341
+    },
+    {
+      "Country": "Fiji",
+      "SDG Region": "Oceania",
+      "Days fully closed": 267,
+      "Days partially closed": 69,
+      "Total": 336
+    },
+    {
+      "Country": "Bulgaria",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 124,
+      "Days partially closed": 211,
+      "Total": 335
+    },
+    {
+      "Country": "Seychelles",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 99,
+      "Days partially closed": 232,
+      "Total": 331
+    },
+    {
+      "Country": "Slovenia",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 145,
+      "Days partially closed": 186,
+      "Total": 331
+    },
+    {
+      "Country": "Dominica",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 233,
+      "Days partially closed": 97,
+      "Total": 330
+    },
+    {
+      "Country": "Angola",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 195,
+      "Days partially closed": 128,
+      "Total": 323
+    },
+    {
+      "Country": "Australia",
+      "SDG Region": "Oceania",
+      "Days fully closed": 0,
+      "Days partially closed": 321,
+      "Total": 321
+    },
+    {
+      "Country": "Czechia",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 140,
+      "Days partially closed": 180,
+      "Total": 320
+    },
+    {
+      "Country": "Zimbabwe",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 237,
+      "Days partially closed": 77,
+      "Total": 314
+    },
+    {
+      "Country": "Poland",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 180,
+      "Days partially closed": 131,
+      "Total": 311
+    },
+    {
+      "Country": "Turks and Caicos Island",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 213,
+      "Days partially closed": 89,
+      "Total": 302
+    },
+    {
+      "Country": "Lesotho",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 76,
+      "Days partially closed": 223,
+      "Total": 299
+    },
+    {
+      "Country": "Montserrat",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 269,
+      "Days partially closed": 18,
+      "Total": 287
+    },
+    {
+      "Country": "Uruguay",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 67,
+      "Days partially closed": 214,
+      "Total": 281
+    },
+    {
+      "Country": "Timor-Leste",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 78,
+      "Days partially closed": 201,
+      "Total": 279
+    },
+    {
+      "Country": "Bermuda",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 73,
+      "Days partially closed": 201,
+      "Total": 274
+    },
+    {
+      "Country": "Austria",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 108,
+      "Days partially closed": 165,
+      "Total": 273
+    },
+    {
+      "Country": "Democratic People's Republic of Korea",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 218,
+      "Days partially closed": 55,
+      "Total": 273
+    },
+    {
+      "Country": "Congo",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 70,
+      "Days partially closed": 202,
+      "Total": 272
+    },
+    {
+      "Country": "Hungary",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 143,
+      "Days partially closed": 129,
+      "Total": 272
+    },
+    {
+      "Country": "Ghana",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 68,
+      "Days partially closed": 202,
+      "Total": 270
+    },
+    {
+      "Country": "Lithuania",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 70,
+      "Days partially closed": 197,
+      "Total": 267
+    },
+    {
+      "Country": "Slovakia",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 71,
+      "Days partially closed": 196,
+      "Total": 267
+    },
+    {
+      "Country": "Germany",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 100,
+      "Days partially closed": 165,
+      "Total": 265
+    },
+    {
+      "Country": "Italy",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 93,
+      "Days partially closed": 170,
+      "Total": 263
+    },
+    {
+      "Country": "Greece",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 129,
+      "Days partially closed": 133,
+      "Total": 262
+    },
+    {
+      "Country": "Morocco",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 120,
+      "Days partially closed": 142,
+      "Total": 262
+    },
+    {
+      "Country": "Brunei Darussalam",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 170,
+      "Days partially closed": 90,
+      "Total": 260
+    },
+    {
+      "Country": "San Marino",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 109,
+      "Days partially closed": 151,
+      "Total": 260
+    },
+    {
+      "Country": "Kenya",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 194,
+      "Days partially closed": 65,
+      "Total": 259
+    },
+    {
+      "Country": "Liberia",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 105,
+      "Days partially closed": 154,
+      "Total": 259
+    },
+    {
+      "Country": "Tunisia",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 121,
+      "Days partially closed": 133,
+      "Total": 254
+    },
+    {
+      "Country": "Romania",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 154,
+      "Days partially closed": 95,
+      "Total": 249
+    },
+    {
+      "Country": "Comoros",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 201,
+      "Days partially closed": 45,
+      "Total": 246
+    },
+    {
+      "Country": "Georgia",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 132,
+      "Days partially closed": 113,
+      "Total": 245
+    },
+    {
+      "Country": "Denmark",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 59,
+      "Days partially closed": 185,
+      "Total": 244
+    },
+    {
+      "Country": "China",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 66,
+      "Days partially closed": 173,
+      "Total": 239
+    },
+    {
+      "Country": "Equatorial Guinea",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 190,
+      "Days partially closed": 47,
+      "Total": 237
+    },
+    {
+      "Country": "Democratic Republic of the Congo",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 168,
+      "Days partially closed": 63,
+      "Total": 231
+    },
+    {
+      "Country": "Saint Kitts and Nevis",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 122,
+      "Days partially closed": 109,
+      "Total": 231
+    },
+    {
+      "Country": "Finland",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 58,
+      "Days partially closed": 172,
+      "Total": 230
+    },
+    {
+      "Country": "Israel",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 114,
+      "Days partially closed": 115,
+      "Total": 229
+    },
+    {
+      "Country": "Madagascar",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 41,
+      "Days partially closed": 183,
+      "Total": 224
+    },
+    {
+      "Country": "Ukraine",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 125,
+      "Days partially closed": 95,
+      "Total": 220
+    },
+    {
+      "Country": "Haiti",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 128,
+      "Days partially closed": 91,
+      "Total": 219
+    },
+    {
+      "Country": "Maldives",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 99,
+      "Days partially closed": 119,
+      "Total": 218
+    },
+    {
+      "Country": "Botswana",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 76,
+      "Days partially closed": 140,
+      "Total": 216
+    },
+    {
+      "Country": "Mauritius",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 121,
+      "Days partially closed": 94,
+      "Total": 215
+    },
+    {
+      "Country": "Netherlands",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 81,
+      "Days partially closed": 134,
+      "Total": 215
+    },
+    {
+      "Country": "Anguilla",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 49,
+      "Days partially closed": 157,
+      "Total": 206
+    },
+    {
+      "Country": "Norway",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 34,
+      "Days partially closed": 172,
+      "Total": 206
+    },
+    {
+      "Country": "Svalbard",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 34,
+      "Days partially closed": 172,
+      "Total": 206
+    },
+    {
+      "Country": "Belgium",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 61,
+      "Days partially closed": 141,
+      "Total": 202
+    },
+    {
+      "Country": "Albania",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 79,
+      "Days partially closed": 122,
+      "Total": 201
+    },
+    {
+      "Country": "Syrian Arab Republic",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 77,
+      "Days partially closed": 124,
+      "Total": 201
+    },
+    {
+      "Country": "Sint Marteen",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 124,
+      "Days partially closed": 72,
+      "Total": 196
+    },
+    {
+      "Country": "Zambia",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 104,
+      "Days partially closed": 90,
+      "Total": 194
+    },
+    {
+      "Country": "Chad",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 161,
+      "Days partially closed": 32,
+      "Total": 193
+    },
+    {
+      "Country": "Cyprus",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 93,
+      "Days partially closed": 100,
+      "Total": 193
+    },
+    {
+      "Country": "Gambia",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 141,
+      "Days partially closed": 52,
+      "Total": 193
+    },
+    {
+      "Country": "New Zealand",
+      "SDG Region": "Oceania",
+      "Days fully closed": 54,
+      "Days partially closed": 135,
+      "Total": 189
+    },
+    {
+      "Country": "United Kingdom of Great Britain and Northern Ireland",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 109,
+      "Days partially closed": 80,
+      "Total": 189
+    },
+    {
+      "Country": "Kyrgyzstan",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 101,
+      "Days partially closed": 85,
+      "Total": 186
+    },
+    {
+      "Country": "Malawi",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 129,
+      "Days partially closed": 53,
+      "Total": 182
+    },
+    {
+      "Country": "Sudan",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 132,
+      "Days partially closed": 50,
+      "Total": 182
+    },
+    {
+      "Country": "Estonia",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 102,
+      "Days partially closed": 77,
+      "Total": 179
+    },
+    {
+      "Country": "Ireland",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 154,
+      "Days partially closed": 25,
+      "Total": 179
+    },
+    {
+      "Country": "Namibia",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 96,
+      "Days partially closed": 77,
+      "Total": 173
+    },
+    {
+      "Country": "Portugal",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 83,
+      "Days partially closed": 86,
+      "Total": 169
+    },
+    {
+      "Country": "Micronesia (Federated States of)",
+      "SDG Region": "Oceania",
+      "Days fully closed": 76,
+      "Days partially closed": 92,
+      "Total": 168
+    },
+    {
+      "Country": "Algeria",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 153,
+      "Days partially closed": 14,
+      "Total": 167
+    },
+    {
+      "Country": "Nigeria",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 125,
+      "Days partially closed": 42,
+      "Total": 167
+    },
+    {
+      "Country": "Sweden",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 0,
+      "Days partially closed": 167,
+      "Total": 167
+    },
+    {
+      "Country": "Mauritania",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 164,
+      "Days partially closed": 0,
+      "Total": 164
+    },
+    {
+      "Country": "Central African republic",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 91,
+      "Days partially closed": 72,
+      "Total": 163
+    },
+    {
+      "Country": "Russian Federation",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 0,
+      "Days partially closed": 162,
+      "Total": 162
+    },
+    {
+      "Country": "Guinea-Bissau",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 125,
+      "Days partially closed": 33,
+      "Total": 158
+    },
+    {
+      "Country": "Senegal",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 87,
+      "Days partially closed": 65,
+      "Total": 152
+    },
+    {
+      "Country": "Guinea",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 151,
+      "Days partially closed": 0,
+      "Total": 151
+    },
+    {
+      "Country": "SÃ£o TomÃ© and PrÃ­ncipe",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 94,
+      "Days partially closed": 56,
+      "Total": 150
+    },
+    {
+      "Country": "Gabon",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 111,
+      "Days partially closed": 37,
+      "Total": 148
+    },
+    {
+      "Country": "Malta",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 129,
+      "Days partially closed": 16,
+      "Total": 145
+    },
+    {
+      "Country": "Solomon Islands",
+      "SDG Region": "Oceania",
+      "Days fully closed": 124,
+      "Days partially closed": 21,
+      "Total": 145
+    },
+    {
+      "Country": "Cabo Verde",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 139,
+      "Days partially closed": 0,
+      "Total": 139
+    },
+    {
+      "Country": "Gibraltar",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 138,
+      "Days partially closed": 0,
+      "Total": 138
+    },
+    {
+      "Country": "Egypt",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 110,
+      "Days partially closed": 26,
+      "Total": 136
+    },
+    {
+      "Country": "Yemen",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 98,
+      "Days partially closed": 38,
+      "Total": 136
+    },
+    {
+      "Country": "Somalia",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 134,
+      "Days partially closed": 0,
+      "Total": 134
+    },
+    {
+      "Country": "Cameroon",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 56,
+      "Days partially closed": 71,
+      "Total": 127
+    },
+    {
+      "Country": "Cayman Islands",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 101,
+      "Days partially closed": 15,
+      "Total": 116
+    },
+    {
+      "Country": "Mali",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 87,
+      "Days partially closed": 29,
+      "Total": 116
+    },
+    {
+      "Country": "Niger",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 115,
+      "Days partially closed": 0,
+      "Total": 115
+    },
+    {
+      "Country": "Singapore",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 27,
+      "Days partially closed": 88,
+      "Total": 115
+    },
+    {
+      "Country": "Andorra",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 107,
+      "Days partially closed": 5,
+      "Total": 112
+    },
+    {
+      "Country": "Republic of Moldova",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 112,
+      "Days partially closed": 0,
+      "Total": 112
+    },
+    {
+      "Country": "Burkina Faso",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 66,
+      "Days partially closed": 45,
+      "Total": 111
+    },
+    {
+      "Country": "Nicaragua",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 0,
+      "Days partially closed": 105,
+      "Total": 105
+    },
+    {
+      "Country": "Spain",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 70,
+      "Days partially closed": 35,
+      "Total": 105
+    },
+    {
+      "Country": "Benin",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 29,
+      "Days partially closed": 75,
+      "Total": 104
+    },
+    {
+      "Country": "Luxembourg",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 61,
+      "Days partially closed": 42,
+      "Total": 103
+    },
+    {
+      "Country": "United Republic of Tanzania",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 74,
+      "Days partially closed": 28,
+      "Total": 102
+    },
+    {
+      "Country": "Togo",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 74,
+      "Days partially closed": 23,
+      "Total": 97
+    },
+    {
+      "Country": "Uzbekistan",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 89,
+      "Days partially closed": 7,
+      "Total": 96
+    },
+    {
+      "Country": "CuraÃ§ao",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 51,
+      "Days partially closed": 44,
+      "Total": 95
+    },
+    {
+      "Country": "Sierra Leone",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 75,
+      "Days partially closed": 20,
+      "Total": 95
+    },
+    {
+      "Country": "Cote d'Ivoire",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 46,
+      "Days partially closed": 44,
+      "Total": 90
+    },
+    {
+      "Country": "Tonga",
+      "SDG Region": "Oceania",
+      "Days fully closed": 53,
+      "Days partially closed": 37,
+      "Total": 90
+    },
+    {
+      "Country": "Liechtenstein",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 38,
+      "Days partially closed": 51,
+      "Total": 89
+    },
+    {
+      "Country": "Aruba",
+      "SDG Region": "Latin America and the Caribbean",
+      "Days fully closed": 54,
+      "Days partially closed": 34,
+      "Total": 88
+    },
+    {
+      "Country": "Monaco",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 45,
+      "Days partially closed": 43,
+      "Total": 88
+    },
+    {
+      "Country": "Armenia",
+      "SDG Region": "Western Asia and Northern Africa",
+      "Days fully closed": 63,
+      "Days partially closed": 24,
+      "Total": 87
+    },
+    {
+      "Country": "Tuvalu",
+      "SDG Region": "Oceania",
+      "Days fully closed": 37,
+      "Days partially closed": 49,
+      "Total": 86
+    },
+    {
+      "Country": "Vanuatu",
+      "SDG Region": "Oceania",
+      "Days fully closed": 76,
+      "Days partially closed": 8,
+      "Total": 84
+    },
+    {
+      "Country": "France",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 48,
+      "Days partially closed": 34,
+      "Total": 82
+    },
+    {
+      "Country": "Palau",
+      "SDG Region": "Oceania",
+      "Days fully closed": 82,
+      "Days partially closed": 0,
+      "Total": 82
+    },
+    {
+      "Country": "Japan",
+      "SDG Region": "Asia (Eastern and South-eastern)",
+      "Days fully closed": 24,
+      "Days partially closed": 56,
+      "Total": 80
+    },
+    {
+      "Country": "Djibouti",
+      "SDG Region": "Africa (Sub-Saharan)",
+      "Days fully closed": 47,
+      "Days partially closed": 27,
+      "Total": 74
+    },
+    {
+      "Country": "Croatia",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 56,
+      "Days partially closed": 14,
+      "Total": 70
+    },
+    {
+      "Country": "Faroe Islands",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 44,
+      "Days partially closed": 25,
+      "Total": 69
+    },
+    {
+      "Country": "Switzerland",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 41,
+      "Days partially closed": 4,
+      "Total": 45
+    },
+    {
+      "Country": "Iceland",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 0,
+      "Days partially closed": 43,
+      "Total": 43
+    },
+    {
+      "Country": "Papua New Guinea",
+      "SDG Region": "Oceania",
+      "Days fully closed": 42,
+      "Days partially closed": 0,
+      "Total": 42
+    },
+    {
+      "Country": "Tokelau",
+      "SDG Region": "Oceania",
+      "Days fully closed": 0,
+      "Days partially closed": 30,
+      "Total": 30
+    },
+    {
+      "Country": "Turkmenistan",
+      "SDG Region": "Asia (Central and Southern)",
+      "Days fully closed": 0,
+      "Days partially closed": 30,
+      "Total": 30
+    },
+    {
+      "Country": "Samoa",
+      "SDG Region": "Oceania",
+      "Days fully closed": 29,
+      "Days partially closed": 0,
+      "Total": 29
+    },
+    {
+      "Country": "Cook Islands",
+      "SDG Region": "Oceania",
+      "Days fully closed": 25,
+      "Days partially closed": 0,
+      "Total": 25
+    },
+    {
+      "Country": "Greenland",
+      "SDG Region": "Northern America and Europe",
+      "Days fully closed": 18,
+      "Days partially closed": 7,
+      "Total": 25
+    },
+    {
+      "Country": "Kiribati",
+      "SDG Region": "Oceania",
+      "Days fully closed": 21,
+      "Days partially closed": 0,
+      "Total": 21
+    },
+    {
+      "Country": "Marshall Islands",
+      "SDG Region": "Oceania",
+      "Days fully closed": 5,
+      "Days partially closed": 7,
+      "Total": 12
+    },
+    {
+      "Country": "Niue",
+      "SDG Region": "Oceania",
+      "Days fully closed": 10,
+      "Days partially closed": 0,
+      "Total": 10
+    }
+  ]
